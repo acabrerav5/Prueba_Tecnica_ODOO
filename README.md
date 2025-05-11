@@ -111,15 +111,12 @@ Paso 6: Errores que tuve y Soluciones
 -) Error al instalar el módulo
 -) Verifique conexión a internet
 -) Actualize la lista de aplicaciones (Aplicaciones → Actualizar lista)
-
-Paso 7: Conclusiones
 -) Campos obligatorios faltantes
 -) Revise que los campos marcados con (*) estén completos
-
 -) No se guardan los cambios
 -) Recarge la página (F5) e intente nuevamente
 
-Conclusión
+Paso 7: Conclusiones
 Este proceso me permitió:
 *) Configurar un ambiente Odoo.sh funcional
 *) Gestionar datos maestros de contactos
