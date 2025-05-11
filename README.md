@@ -107,11 +107,12 @@ Pasos detallados para cada contacto:
 -En pestaña "Ventas": asignar etiquetas
 -Hacer clic en "Guardar"
 
-Errores que tuve y Soluciones
+Paso 6: Errores que tuve y Soluciones
 -) Error al instalar el módulo
 -) Verifique conexión a internet
 -) Actualize la lista de aplicaciones (Aplicaciones → Actualizar lista)
 
+Paso 7: Conclusiones
 -) Campos obligatorios faltantes
 -) Revise que los campos marcados con (*) estén completos
 
